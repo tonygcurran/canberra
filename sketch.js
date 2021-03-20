@@ -34,7 +34,7 @@ sw = 3;
       sel = 20;
     }
     
-    sel = sel + random(-.02,.02);
+    sel = sel + random(-.04,.04);
     sely = sely + random(-.02,.02);
  
   }
